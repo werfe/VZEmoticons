@@ -1,0 +1,1986 @@
+{
+    "emoticons_lists": [
+                        {
+                        "name": "voz",
+                        "cover": "images/smilies/adore.gif",
+                        "emoticons": [
+                                      {
+                                      "url": "images/smilies/sweat.gif",
+                                      "value": ":sweat:"
+                                      },
+                                      {
+                                      "url": "images/smilies/nosebleed.gif",
+                                      "value": ":chaymau:"
+                                      },
+                                      {
+                                      "url": "images/smilies/go.gif",
+                                      "value": ":go:"
+                                      },
+                                      {
+                                      "url": "images/smilies/shame.gif",
+                                      "value": ":shame:"
+                                      },
+                                      {
+                                      "url": "images/smilies/canny.gif",
+                                      "value": ":canny:"
+                                      },
+                                      {
+                                      "url": "images/smilies/feel_good.gif",
+                                      "value": ":sogood:"
+                                      },
+                                      {
+                                      "url": "images/smilies/sexy_girl.gif",
+                                      "value": ":sexy:"
+                                      },
+                                      {
+                                      "url": "images/smilies/byebye.gif",
+                                      "value": ":byebye:"
+                                      },
+                                      {
+                                      "url": "images/smilies/look_down.gif",
+                                      "value": ":look_down:"
+                                      },
+                                      {
+                                      "url": "images/smilies/burn_joss_stick.gif",
+                                      "value": ":stick:"
+                                      },
+                                      {
+                                      "url": "images/smilies/adore.gif",
+                                      "value": ":adore:"
+                                      },
+                                      {
+                                      "url": "images/smilies/nosebleed.gif",
+                                      "value": ":nosebleed:"
+                                      },
+                                      {
+                                      "url": "images/smilies/beauty.gif",
+                                      "value": ":beauty:"
+                                      },
+                                      {
+                                      "url": "images/smilies/brick.png",
+                                      "value": ":gach:"
+                                      },
+                                      {
+                                      "url": "images/smilies/embarrassed.gif",
+                                      "value": ":\">"
+                                      },
+                                      {
+                                      "url": "images/smilies/too_sad.gif",
+                                      "value": ":sosad:"
+                                      },
+                                      {
+                                      "url": "images/smilies/surrender.gif",
+                                      "value": ":surrender:"
+                                      },
+                                      {
+                                      "url": "images/smilies/pudency.gif",
+                                      "value": ":pudency:"
+                                      },
+                                      {
+                                      "url": "images/smilies/dribble.gif",
+                                      "value": ":dribble:"
+                                      },
+                                      {
+                                      "url": "images/smilies/waaaht.gif",
+                                      "value": ":waaaht:"
+                                      },
+                                      {
+                                      "url": "images/smilies/oh.gif",
+                                      "value": ":oh:"
+                                      },
+                                      {
+                                      "url": "images/smilies/cry.gif",
+                                      "value": ":(("
+                                      },
+                                      {
+                                      "url": "images/smilies/after_boom.gif",
+                                      "value": ":aboom:"
+                                      },
+                                      {
+                                      "url": "images/smilies/beat_shot.gif",
+                                      "value": "shot:"
+                                      },
+                                      {
+                                      "url": "images/smilies/hungry.gif",
+                                      "value": ":hungry:"
+                                      },
+                                      {
+                                      "url": "images/smilies/rap.gif",
+                                      "value": ":rap:"
+                                      },
+                                      {
+                                      "url": "images/smilies/sweet_kiss.gif",
+                                      "value": ":*"
+                                      },
+                                      {
+                                      "url": "images/smilies/ops.gif",
+                                      "value": ":ops:"
+                                      },
+                                      {
+                                      "url": "images/smilies/smile.gif",
+                                      "value": ":)"
+                                      },
+                                      {
+                                      "url": "images/smilies/beat_plaster.gif",
+                                      "value": ":plaster:"
+                                      },
+                                      {
+                                      "url": "images/smilies/tire.gif",
+                                      "value": ":tire:"
+                                      },
+                                      {
+                                      "url": "images/smilies/bad_smelly.gif",
+                                      "value": ":badsmell:"
+                                      },
+                                      {
+                                      "url": "images/smilies/beat_brick.gif",
+                                      "value": ":brick:"
+                                      },
+                                      {
+                                      "url": "images/smilies/cool.gif",
+                                      "value": ":kool:"
+                                      },
+                                      {
+                                      "url": "images/smilies/hell_boy.gif",
+                                      "value": ":hell_boy:"
+                                      },
+                                      {
+                                      "url": "images/smilies/sure.gif",
+                                      "value": ":sure:"
+                                      },
+                                      {
+                                      "url": "images/smilies/sad.gif",
+                                      "value": ":sad:"
+                                      },
+                                      {
+                                      "url": "images/smilies/amazed.gif",
+                                      "value": ":amazed:"
+                                      },
+                                      {
+                                      "url": "images/smilies/what.gif",
+                                      "value": ":what:"
+                                      },
+                                      {
+                                      "url": "images/smilies/ah.gif",
+                                      "value": ":ah:"
+                                      },
+                                      {
+                                      "url": "images/smilies/baffle.gif",
+                                      "value": ":baffle:"
+                                      },
+                                      {
+                                      "url": "images/smilies/choler.gif",
+                                      "value": ":choler:"
+                                      },
+                                      {
+                                      "url": "images/smilies/doubt.gif",
+                                      "value": ":doubt:"
+                                      },
+                                      {
+                                      "url": "images/smilies/confident.gif",
+                                      "value": ":confident:"
+                                      },
+                                      {
+                                      "url": "images/smilies/big_smile.gif",
+                                      "value": ":D"
+                                      },
+                                      {
+                                      "url": "images/smilies/matrix.gif",
+                                      "value": ":matrix:"
+                                      },
+                                      {
+                                      "url": "images/smilies/haha.gif",
+                                      "value": ":haha:"
+                                      },
+                                      {
+                                      "url": "images/smilies/spiderman.gif",
+                                      "value": ":spiderman:"
+                                      },
+                                      {
+                                      "url": "images/smilies/angry.gif",
+                                      "value": ":angry:"
+                                      },
+                                      {
+                                      "url": "images/smilies/still_dreaming.gif",
+                                      "value": ":dreaming:"
+                                      },
+                                      {
+                                      "url": "images/smilies/boss.gif",
+                                      "value": ":boss:"
+                                      },
+                                      {
+                                      "url": "images/smilies/confuse.gif",
+                                      "value": ":-s"
+                                      },
+                                      {
+                                      "url": "images/smilies/misdoubt.gif",
+                                      "value": ":misdoubt:"
+                                      }
+                                      ]
+                        },
+                        {
+                        "name": "GIF",
+                        "emoticons": [
+                                      {
+                                      "url": "https://vozforums.com/images/smilies/Off/lay.gif",
+                                      "value": "^:)^"
+                                      },
+                                      {
+                                      "url": "https://vozforums.com/images/smilies/Off/hang.gif",
+                                      "value": ":hang:"
+                                      },
+                                      {
+                                      "url": "https://vozforums.com/images/smilies/Off/lmao.gif",
+                                      "value": ":lmao:"
+                                      },
+                                      {
+                                      "url": "https://vozforums.com/images/smilies/Off/bye.gif",
+                                      "value": ":bye:"
+                                      },
+                                      {
+                                      "url": "https://vozforums.com/images/smilies/Off/phone.gif",
+                                      "value": ":phone:"
+                                      },
+                                      {
+                                      "url": "https://vozforums.com/images/smilies/Off/ot.gif",
+                                      "value": ":ot:"
+                                      },
+                                      {
+                                      "url": "https://vozforums.com/images/smilies/Off/flame.gif",
+                                      "value": ":flame:"
+                                      },
+                                      {
+                                      "url": "https://vozforums.com/images/smilies/Off/bang.gif",
+                                      "value": ":bang:"
+                                      },
+                                      {
+                                      "url": "https://vozforums.com/images/smilies/Off/hug.gif",
+                                      "value": ":hug:"
+                                      },
+                                      {
+                                      "url": "https://vozforums.com/images/smilies/Off/fix.gif",
+                                      "value": ":fix:"
+                                      },
+                                      {
+                                      "url": "https://vozforums.com/images/smilies/Off/sleep.gif",
+                                      "value": "-_-"
+                                      },
+                                      {
+                                      "url": "https://vozforums.com/images/smilies/Off/shit.gif",
+                                      "value": ":shitty:"
+                                      },
+                                      {
+                                      "url": "https://vozforums.com/images/smilies/Off/cheers.gif",
+                                      "value": ":cheers:"
+                                      },
+                                      {
+                                      "url": "https://vozforums.com/images/smilies/Off/theft.gif",
+                                      "value": ":theft:"
+                                      },
+                                      {
+                                      "url": "https://vozforums.com/images/smilies/Off/spam.gif",
+                                      "value": ":spam:"
+                                      },
+                                      {
+                                      "url": "https://vozforums.com/images/smilies/Off/rofl.gif",
+                                      "value": ":rofl:"
+                                      },
+                                      {
+                                      "url": "https://vozforums.com/images/smilies/Off/capture.gif",
+                                      "value": ":capture:"
+                                      },
+                                      {
+                                      "url": "https://vozforums.com/images/smilies/Off/smoke.gif",
+                                      "value": ":smoke:"
+                                      },
+                                      {
+                                      "url": "https://vozforums.com/images/smilies/Off/hehe.gif",
+                                      "value": ":hehe:"
+                                      },
+                                      {
+                                      "url": "https://vozforums.com/images/smilies/Off/sos.gif",
+                                      "value": ":sos:"
+                                      },
+                                      {
+                                      "url": "https://vozforums.com/images/smilies/Off/mage.gif",
+                                      "value": ":mage:"
+                                      },
+                                      {
+                                      "url": "https://vozforums.com/images/smilies/Off/bike.gif",
+                                      "value": ":bike:"
+                                      },
+                                      {
+                                      "url": "https://vozforums.com/images/smilies/emos/shit.gif",
+                                      "value": ":shit:"
+                                      },
+                                      {
+                                      "url": "https://vozforums.com/images/smilies/emos/lovemachine.gif",
+                                      "value": ":lovemachine:"
+                                      },
+                                      {
+                                      "url": "https://vozforums.com/images/smilies/Off/runrun.gif",
+                                      "value": ":runrun:"
+                                      },
+                                      {
+                                      "url": "https://vozforums.com/images/smilies/emos/loveyou.gif",
+                                      "value": ":loveyou:"
+                                      },
+                                      {
+                                      "url": "https://vozforums.com/images/smilies/emos/stupid.gif",
+                                      "value": ":stupid:"
+                                      },
+                                      {
+                                      "url": "https://vozforums.com/images/smilies/Off/bann.gif",
+                                      "value": ":ban:"
+                                      },
+                                      {
+                                      "url": "https://vozforums.com/images/smilies/emos/doublegun.gif",
+                                      "value": ":doublegun:"
+                                      },
+                                      {
+                                      "url": "https://vozforums.com/images/smilies/emos/boom.gif",
+                                      "value": ":boom:"
+                                      },
+                                      {
+                                      "url": "https://vozforums.com/images/smilies/emos/lol.gif",
+                                      "value": ":lol:"
+                                      },
+                                      {
+                                      "url": "https://vozforums.com/images/smilies/Off/welcome.gif",
+                                      "value": ":welcome:"
+                                      },
+                                      {
+                                      "url": "https://vozforums.com/images/smilies/Off/please.gif",
+                                      "value": ":please:"
+                                      },
+                                      {
+                                      "url": "https://vozforums.com/images/smilies/emos/puke.gif",
+                                      "value": ":puke:"
+                                      },
+                                      {
+                                      "url": "https://vozforums.com/images/smilies/emos/shoot1.gif",
+                                      "value": ":shoot1:"
+                                      },
+                                      {
+                                      "url": "https://vozforums.com/images/smilies/emos/no.gif",
+                                      "value": ":no:"
+                                      },
+                                      {
+                                      "url": "https://vozforums.com/images/smilies/emos/yes.gif",
+                                      "value": ":yes:"
+                                      },
+                                      {
+                                      "url": "https://vozforums.com/images/smilies/emos/Birthday.gif",
+                                      "value": ":Birthday:"
+                                      },
+                                      {
+                                      "url": "https://vozforums.com/images/smilies/emos/band.gif",
+                                      "value": ":band:"
+                                      },
+                                      {
+                                      "url": "https://vozforums.com/images/smilies/emos/winner.gif",
+                                      "value": ":winner:"
+                                      }
+                                      ]
+                        },
+                        {
+                        "name": "namek",
+                        "cover": "images/namek/boss.png",
+                        "emoticons":[
+                                     {
+                                     "url": "images/namek/adore.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/adore.png"
+                                     },
+                                     {
+                                     "url": "images/namek/ah.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/ah.png"
+                                     },
+                                     {
+                                     "url": "images/namek/amazed.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/amazed.png"
+                                     },
+                                     {
+                                     "url": "images/namek/angry.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/angry.png"
+                                     },
+                                     {
+                                     "url": "images/namek/bad_smelly.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/bad_smelly.png"
+                                     },
+                                     {
+                                     "url": "images/namek/baffle.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/baffle.png"
+                                     },
+                                     {
+                                     "url": "images/namek/beat_brick.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/beat_brick.png"
+                                     },
+                                     {
+                                     "url": "images/namek/beat_plaster.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/beat_plaster.png"
+                                     },
+                                     {
+                                     "url": "images/namek/beat_shot.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/beat_shot.png"
+                                     },
+                                     {
+                                     "url": "images/namek/beated.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/beated.png"
+                                     },
+                                     {
+                                     "url": "images/namek/beauty.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/beauty.png"
+                                     },
+                                     {
+                                     "url": "images/namek/big_smile.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/big_smile.png"
+                                     },
+                                     {
+                                     "url": "images/namek/boss.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/boss.png"
+                                     },
+                                     {
+                                     "url": "images/namek/burn_joss_stick.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/burn_joss_stick.png"
+                                     },
+                                     {
+                                     "url": "images/namek/byebye_copy.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/byebye_copy.png"
+                                     },
+                                     {
+                                     "url": "images/namek/byebye.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/byebye.png"
+                                     },
+                                     {
+                                     "url": "images/namek/choler.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/choler.png"
+                                     },
+                                     {
+                                     "url": "images/namek/confident.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/confident.png"
+                                     },
+                                     {
+                                     "url": "images/namek/confuse.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/confuse.png"
+                                     },
+                                     {
+                                     "url": "images/namek/cry.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/cry.png"
+                                     },
+                                     {
+                                     "url": "images/namek/doubt.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/doubt.png"
+                                     },
+                                     {
+                                     "url": "images/namek/dribble.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/dribble.png"
+                                     },
+                                     {
+                                     "url": "images/namek/embarrassed.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/embarrassed.png"
+                                     },
+                                     {
+                                     "url": "images/namek/extreme_sexy_girl.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/extreme_sexy_girl.png"
+                                     },
+                                     {
+                                     "url": "images/namek/feel_good.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/feel_good.png"
+                                     },
+                                     {
+                                     "url": "images/namek/go.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/go.png"
+                                     },
+                                     {
+                                     "url": "images/namek/haha.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/haha.png"
+                                     },
+                                     {
+                                     "url": "images/namek/hungry.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/hungry.png"
+                                     },
+                                     {
+                                     "url": "images/namek/look_down.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/look_down.png"
+                                     },
+                                     {
+                                     "url": "images/namek/misdoubt.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/misdoubt.png"
+                                     },
+                                     {
+                                     "url": "images/namek/nosebleed.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/nosebleed.png"
+                                     },
+                                     {
+                                     "url": "images/namek/oh.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/oh.png"
+                                     },
+                                     {
+                                     "url": "images/namek/ops.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/ops.png"
+                                     },
+                                     {
+                                     "url": "images/namek/pudency.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/pudency.png"
+                                     },
+                                     {
+                                     "url": "images/namek/sad.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/sad.png"
+                                     },
+                                     {
+                                     "url": "images/namek/sexy_girl.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/sexy_girl.png"
+                                     },
+                                     {
+                                     "url": "images/namek/shame.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/shame.png"
+                                     },
+                                     {
+                                     "url": "images/namek/smile.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/smile.png"
+                                     },
+                                     {
+                                     "url": "images/namek/still_dreaming.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/still_dreaming.png"
+                                     },
+                                     {
+                                     "url": "images/namek/sure.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/sure.png"
+                                     },
+                                     {
+                                     "url": "images/namek/surrender.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/surrender.png"
+                                     },
+                                     {
+                                     "url": "images/namek/sweat.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/sweat.png"
+                                     },
+                                     {
+                                     "url": "images/namek/sweet_kiss.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/sweet_kiss.png"
+                                     },
+                                     {
+                                     "url": "images/namek/tire.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/tire.png"
+                                     },
+                                     {
+                                     "url": "images/namek/too_sad.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/too_sad.png"
+                                     },
+                                     {
+                                     "url": "images/namek/waaaht.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/waaaht.png"
+                                     },
+                                     {
+                                     "url": "images/namek/what.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/namek/what.png"
+                                     }
+                                     ]
+                        },
+                        {
+                        "name": "30 shades",
+                        "cover": "images/30shades/doubt_kiss.png",
+                        "emoticons": [
+                                      {
+                                      "url": "images/30shades/adore_sweet_kiss.png",
+                                      "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/30shades/adore_sweet_kiss.png"
+                                      },
+                                      {
+                                      "url": "images/30shades/ahihihihi.png",
+                                      "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/30shades/ahihihihi.png"
+                                      },
+                                      {
+                                      "url": "images/30shades/amazed_sweet_kiss.png",
+                                      "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/30shades/amazed_sweet_kiss.png"
+                                      },
+                                      {
+                                      "url": "images/30shades/big_smile_surender.png",
+                                      "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/30shades/big_smile_surender.png"
+                                      },
+                                      {
+                                      "url": "images/30shades/byebye_big_smile.png",
+                                      "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/30shades/byebye_big_smile.png"
+                                      },
+                                      {
+                                      "url": "images/30shades/byebye_smile.png",
+                                      "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/30shades/byebye_smile.png"
+                                      },
+                                      {
+                                      "url": "images/30shades/confident_boss.png",
+                                      "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/30shades/confident_boss.png"
+                                      },
+                                      {
+                                      "url": "images/30shades/double_brick.png",
+                                      "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/30shades/double_brick.png"
+                                      },
+                                      {
+                                      "url": "images/30shades/doubt_kiss.png",
+                                      "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/30shades/doubt_kiss.png"
+                                      },
+                                      {
+                                      "url": "images/30shades/fap_dreaming.png",
+                                      "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/30shades/fap_dreaming.png"
+                                      },
+                                      {
+                                      "url": "images/30shades/fap_fap.png",
+                                      "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/30shades/fap_fap.png"
+                                      },
+                                      {
+                                      "url": "images/30shades/growing_horn.png",
+                                      "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/30shades/growing_horn.png"
+                                      },
+                                      {
+                                      "url": "images/30shades/haha_angry.png",
+                                      "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/30shades/haha_angry.png"
+                                      },
+                                      {
+                                      "url": "images/30shades/hey_hey.png",
+                                      "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/30shades/hey_hey.png"
+                                      },
+                                      {
+                                      "url": "images/30shades/jummy_girl.png",
+                                      "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/30shades/jummy_girl.png"
+                                      },
+                                      {
+                                      "url": "images/30shades/look_down_confuse.png",
+                                      "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/30shades/look_down_confuse.png"
+                                      },
+                                      {
+                                      "url": "images/30shades/look_down_haha.png",
+                                      "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/30shades/look_down_haha.png"
+                                      },
+                                      {
+                                      "url": "images/30shades/moaaa.png",
+                                      "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/30shades/moaaa.png"
+                                      },
+                                      {
+                                      "url": "images/30shades/nooo.png",
+                                      "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/30shades/nooo.png"
+                                      },
+                                      {
+                                      "url": "images/30shades/oh_beauty.png",
+                                      "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/30shades/oh_beauty.png"
+                                      },
+                                      {
+                                      "url": "images/30shades/oh_sexy_girl.png",
+                                      "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/30shades/oh_sexy_girl.png"
+                                      },
+                                      {
+                                      "url": "images/30shades/one_punch.png",
+                                      "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/30shades/one_punch.png"
+                                      },
+                                      {
+                                      "url": "images/30shades/ops_confident.png",
+                                      "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/30shades/ops_confident.png"
+                                      },
+                                      {
+                                      "url": "images/30shades/sad_smile.png",
+                                      "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/30shades/sad_smile.png"
+                                      },
+                                      {
+                                      "url": "images/30shades/surrender_sexy_girl_byebye.png",
+                                      "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/30shades/surrender_sexy_girl_byebye.png"
+                                      },
+                                      {
+                                      "url": "images/30shades/surrender_sexygirl.png",
+                                      "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/30shades/surrender_sexygirl.png"
+                                      },
+                                      {
+                                      "url": "images/30shades/vote_ban.png",
+                                      "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/30shades/vote_ban.png"
+                                      },
+                                      {
+                                      "url": "images/30shades/what_the_heck.png",
+                                      "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/30shades/what_the_heck.png"
+                                      },
+                                      {
+                                      "url": "images/30shades/whats_that_trick.png",
+                                      "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/30shades/whats_that_trick.png"
+                                      },
+                                      {
+                                      "url": "images/30shades/wtf.png",
+                                      "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/30shades/wtf.png"
+                                      }
+                                      
+                                      ]
+                        },
+                        {
+                        "name": "Girl",
+                        "cover": "images/girl/then_thung2.png",
+                        "emoticons":
+                        [{
+                         "url": "images/girl/adore2.png",
+                         "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/girl/adore2.png"
+                         },
+                         {
+                         "url": "images/girl/angry2.png",
+                         "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/girl/angry2.png"
+                         },
+                         {
+                         "url": "images/girl/bao_hanh2.png",
+                         "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/girl/bao_hanh2.png"
+                         },
+                         {
+                         "url": "images/girl/beauty2.png",
+                         "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/girl/beauty2.png"
+                         },
+                         {
+                         "url": "images/girl/boss2.png",
+                         "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/girl/boss2.png"
+                         },
+                         {
+                         "url": "images/girl/buc tuc2.png",
+                         "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/girl/buc tuc2.png"
+                         },
+                         {
+                         "url": "images/girl/buon2.png",
+                         "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/girl/buon2.png"
+                         },
+                         {
+                         "url": "images/girl/chay_dai2.png",
+                         "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/girl/chay_dai2.png"
+                         },
+                         {
+                         "url": "images/girl/chay_mau2.png",
+                         "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/girl/chay_mau2.png"
+                         },
+                         {
+                         "url": "images/girl/cuoi_khay2.png",
+                         "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/girl/cuoi_khay2.png"
+                         },
+                         {
+                         "url": "images/girl/cuoi2.png",
+                         "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/girl/cuoi2.png"
+                         },
+                         {
+                         "url": "images/girl/dau_an2.png",
+                         "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/girl/dau_an2.png"
+                         },
+                         {
+                         "url": "images/girl/de_thuong2.png",
+                         "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/girl/de_thuong2.png"
+                         },
+                         {
+                         "url": "images/girl/haha2.png",
+                         "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/girl/haha2.png"
+                         },
+                         {
+                         "url": "images/girl/kieu_ky2.png",
+                         "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/girl/kieu_ky2.png"
+                         },
+                         {
+                         "url": "images/girl/kieu2.png",
+                         "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/girl/kieu2.png"
+                         },
+                         {
+                         "url": "images/girl/kiss2.png",
+                         "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/girl/kiss2.png"
+                         },
+                         {
+                         "url": "images/girl/kotex2.png",
+                         "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/girl/kotex2.png"
+                         },
+                         {
+                         "url": "images/girl/Matrix2.png",
+                         "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/girl/Matrix2.png"
+                         },
+                         {
+                         "url": "images/girl/mau_mui2.png",
+                         "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/girl/mau_mui2.png"
+                         },
+                         {
+                         "url": "images/girl/mickey.png",
+                         "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/girl/mickey.png"
+                         },
+                         {
+                         "url": "images/girl/nan2.png",
+                         "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/girl/nan2.png"
+                         },
+                         {
+                         "url": "images/girl/oh2.png",
+                         "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/girl/oh2.png"
+                         },
+                         {
+                         "url": "images/girl/ong_gia2.png",
+                         "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/girl/ong_gia2.png"
+                         },
+                         {
+                         "url": "images/girl/Oo2.png",
+                         "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/girl/Oo2.png"
+                         },
+                         {
+                         "url": "images/girl/po_tay2.png",
+                         "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/girl/po_tay2.png"
+                         },
+                         {
+                         "url": "images/girl/Sexy2.png",
+                         "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/girl/Sexy2.png"
+                         },
+                         {
+                         "url": "images/girl/spiderman2.png",
+                         "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/girl/spiderman2.png"
+                         },
+                         {
+                         "url": "images/girl/then_thung2.png",
+                         "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/girl/then_thung2.png"
+                         },
+                         {
+                         "url": "images/girl/tuc_gian2.png",
+                         "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/girl/tuc_gian2.png"
+                         },
+                         {
+                         "url": "images/girl/uh2.png",
+                         "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/girl/uh2.png"
+                         },
+                         {
+                         "url": "images/girl/vui2.png",
+                         "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/girl/vui2.png"
+                         }
+                         ]
+                        },
+                        {
+                        "name": "I5",
+                        "cover":"images/I5/AQrCAuB.gif",
+                        "emoticons":[
+                                     {
+                                     "url": "images/I5/1u42eTU.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/1u42eTU.png"
+                                     },
+                                     {
+                                     "url": "images/I5/2oSyM13.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/2oSyM13.png"
+                                     },
+                                     {
+                                     "url": "images/I5/4mxEbwa.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/4mxEbwa.png"
+                                     },
+                                     {
+                                     "url": "images/I5/5k6LgBK.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/5k6LgBK.png"
+                                     },
+                                     {
+                                     "url": "images/I5/5yVLqeN.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/5yVLqeN.png"
+                                     },
+                                     {
+                                     "url": "images/I5/7W7TfwA.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/7W7TfwA.png"
+                                     },
+                                     {
+                                     "url": "images/I5/7ZYXTHG.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/7ZYXTHG.png"
+                                     },
+                                     {
+                                     "url": "images/I5/9kIgQsO.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/9kIgQsO.png"
+                                     },
+                                     {
+                                     "url": "images/I5/264U0wF.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/264U0wF.png"
+                                     },
+                                     {
+                                     "url": "images/I5/AMSqNfp.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/AMSqNfp.png"
+                                     },
+                                     {
+                                     "url": "images/I5/AQrCAuB.gif",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/AQrCAuB.gif"
+                                     },
+                                     {
+                                     "url": "images/I5/aurxb1u.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/aurxb1u.png"
+                                     },
+                                     {
+                                     "url": "images/I5/BO1XZUy.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/BO1XZUy.png"
+                                     },
+                                     {
+                                     "url": "images/I5/BOxOEs7.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/BOxOEs7.png"
+                                     },
+                                     {
+                                     "url": "images/I5/cp6QmjO.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/cp6QmjO.png"
+                                     },
+                                     {
+                                     "url": "images/I5/d3WL18Q.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/d3WL18Q.png"
+                                     },
+                                     {
+                                     "url": "images/I5/DEC0pjF.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/DEC0pjF.png"
+                                     },
+                                     {
+                                     "url": "images/I5/DMPCcsI.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/DMPCcsI.png"
+                                     },
+                                     {
+                                     "url": "images/I5/Dmqg7hf.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/Dmqg7hf.png"
+                                     },
+                                     {
+                                     "url": "images/I5/elwmINk.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/elwmINk.png"
+                                     },
+                                     {
+                                     "url": "images/I5/f5hbdyu.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/f5hbdyu.png"
+                                     },
+                                     {
+                                     "url": "images/I5/gvcxcSP.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/gvcxcSP.png"
+                                     },
+                                     {
+                                     "url": "images/I5/H7t4Blo.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/H7t4Blo.png"
+                                     },
+                                     {
+                                     "url": "images/I5/hIZiBor.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/hIZiBor.png"
+                                     },
+                                     {
+                                     "url": "images/I5/iIG8sJx.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/iIG8sJx.png"
+                                     },
+                                     {
+                                     "url": "images/I5/InVPSNU.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/InVPSNU.png"
+                                     },
+                                     {
+                                     "url": "images/I5/ISoU7zZ.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/ISoU7zZ.png"
+                                     },
+                                     {
+                                     "url": "images/I5/jE9g81t.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/jE9g81t.png"
+                                     },
+                                     {
+                                     "url": "images/I5/JQHIe7d.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/JQHIe7d.png"
+                                     },
+                                     {
+                                     "url": "images/I5/KdLEcfB.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/KdLEcfB.png"
+                                     },
+                                     {
+                                     "url": "images/I5/Lk5p2ee.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/Lk5p2ee.png"
+                                     },
+                                     {
+                                     "url": "images/I5/LluRZeT.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/LluRZeT.png"
+                                     },
+                                     {
+                                     "url": "images/I5/n6tHPDR.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/n6tHPDR.png"
+                                     },
+                                     {
+                                     "url": "images/I5/NGCtuid.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/NGCtuid.png"
+                                     },
+                                     {
+                                     "url": "images/I5/NKdc32X.gif",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/NKdc32X.gif"
+                                     },
+                                     {
+                                     "url": "images/I5/nLqVKBo.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/nLqVKBo.png"
+                                     },
+                                     {
+                                     "url": "images/I5/NrQJtSU.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/NrQJtSU.png"
+                                     },
+                                     {
+                                     "url": "images/I5/oA4jftj.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/oA4jftj.png"
+                                     },
+                                     {
+                                     "url": "images/I5/ofj7LoP.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/ofj7LoP.png"
+                                     },
+                                     {
+                                     "url": "images/I5/OVaQP6V.gif",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/OVaQP6V.gif"
+                                     },
+                                     {
+                                     "url": "images/I5/PfFAqXk.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/PfFAqXk.png"
+                                     },
+                                     {
+                                     "url": "images/I5/pFly8Ba.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/pFly8Ba.png"
+                                     },
+                                     {
+                                     "url": "images/I5/qgfvRW4.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/qgfvRW4.png"
+                                     },
+                                     {
+                                     "url": "images/I5/qi8AMAa.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/qi8AMAa.png"
+                                     },
+                                     {
+                                     "url": "images/I5/R6EtFbD.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/R6EtFbD.png"
+                                     },
+                                     {
+                                     "url": "images/I5/RieGeE5.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/RieGeE5.png"
+                                     },
+                                     {
+                                     "url": "images/I5/SCowCmn.gif",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/SCowCmn.gif"
+                                     },
+                                     {
+                                     "url": "images/I5/sgPr5D3.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/sgPr5D3.png"
+                                     },
+                                     {
+                                     "url": "images/I5/Ss024XI.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/Ss024XI.png"
+                                     },
+                                     {
+                                     "url": "images/I5/sWVAFxO.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/sWVAFxO.png"
+                                     },
+                                     {
+                                     "url": "images/I5/t5JH8ub-1.gif",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/t5JH8ub-1.gif"
+                                     },
+                                     {
+                                     "url": "images/I5/t5JH8ub.gif",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/t5JH8ub.gif"
+                                     },
+                                     {
+                                     "url": "images/I5/TiSTPjP.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/TiSTPjP.png"
+                                     },
+                                     {
+                                     "url": "images/I5/UwyzFbu.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/UwyzFbu.png"
+                                     },
+                                     {
+                                     "url": "images/I5/v8IDILn.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/v8IDILn.png"
+                                     },
+                                     {
+                                     "url": "images/I5/V79L9Nf.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/V79L9Nf.png"
+                                     },
+                                     {
+                                     "url": "images/I5/WI2A514.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/WI2A514.png"
+                                     },
+                                     {
+                                     "url": "images/I5/Xgy6cGj.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/Xgy6cGj.png"
+                                     },
+                                     {
+                                     "url": "images/I5/YSEnvVq.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/YSEnvVq.png"
+                                     },
+                                     {
+                                     "url": "images/I5/zaMgK0z.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/zaMgK0z.png"
+                                     },
+                                     {
+                                     "url": "images/I5/ZcysqdG.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/ZcysqdG.png"
+                                     },
+                                     {
+                                     "url": "images/I5/zX82tR8.png",
+                                     "value": "https://raw.githubusercontent.com/werfe/VZEmoticons/master/images/I5/zX82tR8.png"
+                                     }
+                                     
+                                     ]
+                        },
+                        {
+                        "name":"(ᵔᴥᵔ)",
+                        "type":"1",
+                        "cover":"",
+                        "emoticons":[
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "凸(｀0´)凸"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "凸ಠ益ಠ)凸"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "凸(⊙▂⊙✖ )"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "┌П┐(►˛◄’!)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "凸(-0-メ)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "凸(｀⌒´メ)凸"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "( ︶︿︶)_╭∩╮"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "凸(>皿<)凸"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "凸(^▼ｪ▼ﾒ^)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "凸(¬‿¬)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "┌∩┐(◣_◢)┌∩┐"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "┌∩┐(ಠ_ಠ)┌∩┐"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "╭∩╮(︶︿︶)╭∩╮"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "╭∩╮(-_-)╭∩╮"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "ᕕ༼ ͠ຈ Ĺ̯ ͠ຈ ༽┌∩┐"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "凸( ͡° ͜ʖ ͡°)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(⁎˃ᆺ˂)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(ꐦ°᷄д°᷅)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(ꐦ ಠ皿ಠ )"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(☞◣д◢)☞"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(☄ฺ◣д◢)☄ฺ"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "( •̀ω•́ )σ"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(ू˃̣̣̣̣̣̣︿˂̣̣̣̣̣̣ ू)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(°ㅂ° ╬)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(´◣д◢`+)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "┌(▀Ĺ̯ ▀-͠ )┐"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "૮( ᵒ̌ૢཪᵒ̌ૢ )ა"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "꒰╬•᷅д•᷄╬꒱"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(╬•᷅д•᷄╬)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(๑‾᷆д‾᷇๑)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "ఠ ͟ಠ"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(｀◕‸◕´+)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(╯°□°）╯︵ ┻━┻"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(┛◉Д◉)┛彡┻━┻"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(ﾉ≧∇≦)ﾉ ﾐ ┸━┸"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(ノಠ益ಠ)ノ彡┻━┻"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(╯ರ ~ ರ）╯︵ ┻━┻"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(┛ಸ_ಸ)┛彡┻━┻"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(ﾉ´･ω･)ﾉ ﾐ ┸━┸"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(ノಥ,_｣ಥ)ノ彡┻━┻"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(┛✧Д✧))┛彡┻━┻"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "༼ﾉຈل͜ຈ༽ﾉ︵┻━┻"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "（╯ ͡° ل͜ ͡°）╯︵ ┻━┻"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "（╯ ͡ ͠° ͟ل͜ ͡°）╯︵ ┻━┻"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "（╯ ͡° ▽ ͡°）╯︵ ┻━┻"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "（╯°□°）╯︵ ( ͜。 ͡ʖ ͜。)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "（╯ ͡° ل͜ ͡°）╯︵ ( ͜。 ͡ʖ ͜。)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "┬──┬ ノ( ͡° ل͜ ͡°ノ)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(´༎ຶ ͜ʖ ༎ຶ `)♡"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "✺◟( ͡° ͜ʖ ͡°)◞✺"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "乁( ⏒ ͜ʖ ⏒ )ㄏ"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(ง ͠° ͟ل͜ ͡°)ง"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "( ͡☉ ͜ʖ ͡☉)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "( ͡° ͜ʖ ͡ °)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "ヽ༼ ͠° ͟ ͜ʖ ͡° ༽ﾉ"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "ᕦ( ͡° ͜ʖ ͡°)ᕤ"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "( ͡~ ͜ʖ ͡°)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "ʅ（´◔౪◔）ʃ"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "¯\\_(๑❛ᴗ❛๑)_/¯"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "¯\\_(ತ_ʖತ)_/¯"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "¯\\_( ´･ω･)_/¯"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "ʕ•́ᴥ•̀ʔっ"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "✍(◔◡◔)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "( ˘︹˘ )"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(ㆆ_ㆆ)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(>‿◠)✌"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "⋌༼ •̀ ⌂ •́ ༽⋋"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(ง︡'-'︠)ง"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(͡• ͜ʖ ͡•)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(͡° ͜ʖ ͡°)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "≧◠‿◠≦✌"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(❛‿❛✿̶̥̥)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "٩(˘◡˘)۶"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "ᕙ(`▿´)ᕗ"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(¬‿¬)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(─‿‿─)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "☜(ˆ▿ˆc)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "( ͡° ͜ʖ ͡°)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "¯\\_(ツ)_/¯"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(▀̿Ĺ̯▀̿ ̿)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(ง ͠° ͟ل͜ ͡°)ง"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "༼ つ ◕_◕ ༽つ"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "ಠ_ಠ"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(づ｡◕‿‿◕｡)づ"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(ง'̀-'́)ง"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(ಥ﹏ಥ)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(☞ﾟ∀ﾟ)☞"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(◕‿◕✿)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(ᵔᴥᵔ)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "༼ʘ̚ل͜ʘ̚༽"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "~(˘▾˘~)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "ヽ༼ຈل͜ຈ༽ﾉ"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(☞ຈل͜ຈ)☞"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "☜(˚▽˚)☞"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(ง°ل͜°)ง"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(ง°ل͜°)ง"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "ლ(´ڡ`ლ)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "╚(ಠ_ಠ)=┐"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "☜(⌒▽⌒)☞"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "ლ,ᔑ•ﺪ͟͠•ᔐ.ლ"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "ಠ_ಥ"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "_(:з」∠)_"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "＠ 'ェ' ＠"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(^L^)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "♪(´ε｀)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(^O^)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "∧( 'Θ' )∧"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "╭(๑¯д¯๑)╮"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(/ﾟДﾟ)/"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(」゜ロ゜)」)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(._.)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "{(-_-)}"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "＼(｀0´)／"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "ヾ( ･`⌓´･)ﾉﾞ"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "ヽ(｀○´)/"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "＼(・｀(ｪ)・)/"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "ᕙ(⇀‸↼‶)ᕗ"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "ᕦ(ò_óˇ)ᕤ"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(＾＿＾)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "୧༼ಠ益ಠ༽୨"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(*^o^*)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(｀_´)ゞ"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(¬_¬)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(-_-)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(^_-)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "( ꒪Д꒪)ノ"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(°_°)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(^▽^)o"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(ヾﾉ•᷅ ༬•᷄ )"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(^_-)O"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "( ^ ^ )/□"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(\"▔□▔) "
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "o(^▽^)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "щ(ºДºщ)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "щ(ಠ益ಠщ)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "щ(ಥДಥщ)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "ლ (#｀ﾛ＾;)>"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "ლ(ಠ_ಠლ)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "ლ(ಠ益ಠ)ლ"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "ლ(ಠ益ಠლ"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "ლಠ益ಠ)ლ"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "ლ(ಠ益ಠ)ლી"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "Щ(◣д◢)Щ"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "Щ(ಠ益ಠЩ)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "ი⁽͑˙˚̀༡̇˚́˙⁾̉ჟ ˒˒⁼³"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "⁽͑ʺ˚̀˙̪̺˚́ʺ⁾̉ ˃͐"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "⁽͑˙˚̀བ̇˚́˙⁾̉"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "ฅ⁽͑ ˚̀ ˙̭ ˚́ ⁾̉ฅ"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "ˁ⁽͑˙˚̀ˆ̇˚́˙⁾̉ˀ"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "⁽͑˙˚̀⚐˚́˙⁾̉"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "ˁ⁽͑ ˚̀˙̭˚́ ⁾̉ˀ ⁼³"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "((╬ಠิ﹏ಠิ))"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "Ƒ ư ɕ ƙ (╬ﾟ◥益◤ﾟ) ╬ﾟ"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(＃ ﾟДﾟ)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(^^)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(^^;;"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "m(__)m"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(･_･;"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(⌒-⌒; )"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(−_−＃)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(*｀ω´)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(＃^.^＃)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(O_o)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(ｰｰ;)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(ゝ。∂）"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(⊙﹏⊙) "
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(^o^)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(*☻-☻*)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "_φ(･_･)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(-_-)zz"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "( ^o^)/"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(^_^*)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "♪(´▽｀)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(⌒▽⌒)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "(~_~;)"
+                                     },
+                                     {
+                                     "type":1,
+                                     "url": "",
+                                     "value": "╚═( ͡° ͜ʖ ͡°)═╝\n╚═(███)═╝\n╚═(███)═╝\n.╚═(███)═╝\n..╚═(███)═╝\n…╚═(███)═╝\n…╚═(███)═╝\n..╚═(███)═╝\n.╚═(███)═╝\n╚═(███)═╝\n.╚═(███)═╝\n..╚═(███)═╝\n…╚═(███)═╝\n…╚═(███)═╝\n…..╚(███)╝\n……╚(██)╝\n………(█)"
+                                     }
+                                     
+                                     ]
+                        
+                        }
+                        ]
+}
