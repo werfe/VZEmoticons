@@ -1,0 +1,61 @@
+{
+  "results": [
+  {
+    "question": "Tại sao tôi không thể vào được vozForums bằng app trong khi vẫn có kết nối internet?",
+    "answer": "Server đang bảo trì, cáp quang đứt, hoặc nhà mạng bạn đang sử dụng đang chặn vozForums"
+  },
+  {
+    "question": "Tôi phải làm gì khi nhà mạng của tôi chặn vozForums?",
+    "answer": "Bạn có thể tải một số app đổi VPN từ appstore để có thể vào được vozForums"
+  },
+  {
+    "question": "App này có hỗ trợ đổi DNS tự động giống như các app Android hay không?",
+    "answer": "Nền tảng iOS hiện chưa cho phép lập trình viên làm điều này, ít nhất là cho đến thời điểm hiện tại"
+  },
+  {
+    "question": "Tôi phải làm sao để mở menu bên trái khi đang không ở màn hình Home mà không phải back nhiều lần?",
+    "answer": "Vuốt từ sát mép trái của màn hình để mở menu bên trái. Vuốt từ giữa màn hình để back"
+  },
+  {
+    "question": "Tôi phải làm gì để không nhìn thấy quảng cáo nữa?",
+    "answer": "Có hai cách:\n1. Mua In-app Purchase để ẩn quảng cáo: mở menu Trái -> Hỗ trợ Dev -> Ẩn quảng cáo \n2. Xem quảng cáo video để ẩn quảng cáo trong vòng 3h: mở menu Trái -> Hỗ trợ Dev -> Xem quảng cáo"
+  },
+  {
+    "question": "Ứng dụng hiện tại chiếm quá nhiều dung lượng máy, tôi phải làm gì?",
+    "answer": "Bạn có thể xóa bộ nhớ cache bằng cách: mở menu bên trái -> Cài Đặt -> Xóa hết bộ nhớ đệm"
+  },
+  {
+    "question": "Tôi phải làm sao để ẩn chữ kí thiết bị?",
+    "answer": "Mở menu trái -> Cài đặt -> Cài đặt nâng cao -> Tắt chữ kí thiết bị"
+  },
+  {
+    "question": "Làm thế nào để vào được Điểm báo (F33)",
+    "answer": "Có hai cách:\n1. Mở menu bên trái -> Điểm báo\n2.Mở menu bên trái -> Đi đến -> nhập vào '33'"
+  },
+  {
+    "question": "Tôi phải làm gì để đọc được nhiều hơn 10 comment mỗi page?",
+    "answer": "Tính năng này yêu cầu đăng nhập. Vào menu bên trái -> Cài đặt -> Số post hiển thị mỗi page"
+  },
+  {
+    "question": "Làm thế nào để hẹn giờ tự động chuyển theme ngày/đêm?",
+    "answer": "Vào menu bên trái -> Cài đặt -> Bật 'Chế độ cú đêm'. Sau khi bạn cài đặt thời gian bật tắt, theme Day/Night sẽ được bật/tắt một cách tự động"
+  },
+  {
+    "question": "Làm thế nào để chuyển trang bằng cách vuốt?",
+    "answer": "Vào menu bên trái -> Cài đặt -> Cài đặt nâng cao -> bật Vuốt để chuyển trang"
+  },
+  {
+    "question": "Trên iPad màn hình bị chia là hai, tôi phải làm gì để hiển thị toàn bộ nội dung thread trên màn hình iPad của tôi?",
+    "answer": "Vào menu bên trái -> Cài đặt -> Cài đặt nâng cao -> tắt Tối ưu cho màn hình lớn"
+  },
+  {
+    "question": "Làm sao để app không load ảnh khi tôi đang sử dụng 3G/4G?",
+    "answer": "Vào menu bên trái -> Cài đặt -> Cài đặt nâng cao -> Cho phép sử dụng 3G/4G hoặc Tắt ảnh khi sử dụng 3G"
+  },
+  {
+    "question": "Làm sao để kiểm tra ứng dụng này đang chiếm bao nhiêu RAM, CPU?",
+    "answer": "Vào menu bên trái -> Cài đặt -> Cài đặt nâng cao -> bật Develop mode. Sau đó quay lại app và lắc nhẹ thiết bị, một số thông số sẽ được hiển thị trên thanh status bar. Lắc nhẹ thiết bị lần nữa để ẩn"
+  }
+    
+  ]
+}
