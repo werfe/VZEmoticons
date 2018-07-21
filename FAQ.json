@@ -33,6 +33,18 @@
     "answer": "Có hai cách:\n1. Mở menu bên trái -> Điểm báo\n2.Mở menu bên trái -> Đi đến -> nhập vào '33'"
   },
   {
+    "question": "Màn hình của tôi cứ hiện icon Loading mãi và không thể thao tác được, tôi phải làm gì“,
+    "answer": "Double tap (chạm nhanh 2 lần) vào màn hình để cancel tác vụ trước đó và ẩn Loading"
+  },
+  {
+    "question": "Update 7/2018: Tại sao tôi không xem được Quotes list??“,
+    "answer": "Thời điểm hiện tại (7/2018) tính năng search của forum đang bị lỗi, nên tính năng xem Quote list cũng bị ảnh hưởng theo. Vui lòng chờ vài ngày để bác Tủ sửa cái đã"
+  },
+  {
+    "question": "Update 7/ 2018: Tại sao tôi không thể vào voz bằng app này được, trong khi vẫn vào được trên app khác hoặc Safari?",
+    "answer": "Hiện tại forum đang có lỗi ’Too many redirects’, vui lòng xóa app đi cài lại để reset toàn bộ cookie và vào được bình thường"
+  },
+  {
     "question": "Tôi phải làm gì để đọc được nhiều hơn 10 comment mỗi page?",
     "answer": "Tính năng này yêu cầu đăng nhập. Vào menu bên trái -> Cài đặt -> Số post hiển thị mỗi page"
   },
